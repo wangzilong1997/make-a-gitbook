@@ -19,3 +19,8 @@
 
 注:`gitbook serve`命令实际上会首先调用`gitbook build`编译书籍，完成以后会打开一个web服务器，监听本地的 4000 端口 
 
+
+##<font color="red">注意<font>
+
+
+<font color="red">Linux系统必须开启4000端口允许访问<font>

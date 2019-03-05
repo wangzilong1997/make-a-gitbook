@@ -10,7 +10,7 @@
 
 
 
-
+<font color="red">仅供参考出错请查链接插件配置<font>
 
 ##gh-pages 分支保存书籍编译后的 HTML 文件 
 
@@ -21,7 +21,7 @@ master 分支保存书籍的源码
 
 ###进入你的gitbook文件夹
 ####1.git init
-####2.git remote add origin https://githubu.com/wangzilong1997/make-a-gitbook.git
+####2.git remote add origin https://github.com/wangzilong1997/make-a-gitbook.git
 ####3.git add .
 ####4.git commit -m -a "sixsixsix"
 ####5.git push -u origin master

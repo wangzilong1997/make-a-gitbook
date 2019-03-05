@@ -17,6 +17,8 @@ gitbook-plugin-github-buttons(GitHub按钮):[https://www.npmjs.com/package/gitbo
 gitbook-plugin-edit-link(GitHub编辑按钮):[https://www.npmjs.com/package/gitbook-plugin-edit-link](https://www.npmjs.com/package/gitbook-plugin-edit-link)
 
 
+<font color="red">仅供参考出错请查链接插件配置<font>
+
 
 ###以下是book.json中供参考的代码
 
@@ -29,7 +31,7 @@ gitbook-plugin-edit-link(GitHub编辑按钮):[https://www.npmjs.com/package/gitb
 
      "plugins":[
          "donate",
-         "github-button@2.1.0",
+         "github-buttons@2.1.0",
          "edit-link"
      ],
 
