@@ -6,6 +6,6 @@
 * [简单书写](SIMPLERULER.md)
 * [简单插件应用](CHAJIAN.md)
 * [将电子书部署到GitHub](GitHub.md)
-* [没有错](KEGUAN.md)
-* [没有错](KEGUAN.md)
+* [结语](JIEYU.md)
+* [待续](KEGUAN.md)
 
