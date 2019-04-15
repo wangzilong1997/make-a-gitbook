@@ -1,5 +1,7 @@
 # 《编写gitbook电子书教程》
 
+### gitbooke：https://wangzilong1997.github.io/make-a-gitbook/
+
 binibini:[哔哩哔哩](https://www.bilibili.com/video/av43085950)
 
 
